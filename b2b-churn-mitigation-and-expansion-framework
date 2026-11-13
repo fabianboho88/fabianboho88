@@ -1,0 +1,60 @@
+# B2B Enterprise Churn Mitigation & Land-and-Expand Playbook
+**Author:** Fabián Augusto Bohórquez González (Senior IT Account Manager | PMP®)  
+**Focus Areas:** Enterprise KAM, Net Revenue Retention (NRR), C-Level Advisory, Pre-Sales Velocity, Cloud/Cybersecurity/CX Solutions.
+
+---
+
+## 1. Executive Summary & Business Problem
+In B2B technology integration and managed services, enterprise portfolios frequently suffer from two critical revenue leaks:
+1. **Silent Customer Churn:** High-value accounts become vulnerable to competitors due to low technology adoption, reactive post-sales support, and a lack of executive alignment with the client's C-Suite.
+2. **Pre-Sales Bottlenecks:** Complex multi-vendor architectures (Cloud, Cybersecurity, UCaaS/CCaaS) often stall in technical scoping and quoting, inflating the sales cycle and eroding deal win rates.
+
+This repository documents the **Consultative Account Management & RevOps Framework** implemented across a **$2M+ USD B2B portfolio (70+ SMB, Enterprise, and Government accounts)** to reverse churn risk, accelerate sales velocity, and expand recurring revenue.
+
+---
+
+## 2. The 4-Stage Consultative Account Framework
+
+### Stage 1: Portfolio Segmentation & Churn Risk Matrix
+Accounts are audited and categorized into a 4-quadrant matrix based on **Current ARR** vs. **Technological Adoption / Health Score**:
+* **Tier 1 (Critical At-Risk Enterprise Accounts):** Immediate C-Level intervention required within 30 days.
+* **Tier 2 (High-Growth / Whitespace Accounts):** Accounts using only 1 product vertical (e.g., Legacy Telephony) with high propensity for Cross-Selling (e.g., Cloud Migration, Fortinet Cybersecurity, or Five9 CCaaS).
+* **Tier 3 (Stable Recurring SMB):** Automated renewal workflows and standardized QBRs.
+
+### Stage 2: C-Level Value Re-Alignment (The Engineering-to-CEO Bridge)
+Instead of pitching product features to IT managers, executive workshops are conducted directly with **CEOs, CIOs, and CTOs** focusing on three P&L drivers:
+1. **OPEX/CAPEX Optimization:** Consolidating fragmented vendor contracts into unified managed service agreements.
+2. **Operational Resilience & Security:** Mapping cybersecurity (Fortinet) and hybrid cloud (HPE) investments to business continuity and regulatory compliance.
+3. **Customer Experience (CX) & Automation:** Quantifying productivity gains from migrating on-premise contact centers to cloud CCaaS/UCaaS (Five9 / Zoom) integrated with AI/RPA.
+
+### Stage 3: Pre-Sales & Quoting Velocity Optimization
+To eliminate internal bottlenecks between Sales, Pre-Sales, and Engineering:
+* **Standardized Effort Estimators:** Parameterized sizing templates for standard UCaaS, networking, and cloud deployments.
+* **CRM Pipeline Governance:** Strict stage-gate criteria linking pre-sales engineering hours to qualified C-Level deal sponsors.
+* **OEM Deal Registration:** Early vendor alignment (HPE, Fortinet, Five9, ALE) to lock in 10%+ procurement cost advantages and protect deal margins.
+
+### Stage 4: Agile Delivery Orchestration (PMP® Governance)
+* Cross-functional alignment between Pre-Sales, Project Management, and Post-Sales Delivery to ensure **zero scope creep** during implementation.
+* Milestone-based billing synchronization and post-deployment **Quarterly Business Reviews (QBRs)** to track ROI and trigger the next *Land & Expand* cycle.
+
+---
+
+## 3. Quantified Business Results
+Applying this framework across real-world B2B IT portfolios delivered the following audited metrics:
+
+| KPI / Metric | Baseline Challenge | Achieved Outcome |
+| :--- | :--- | :--- |
+| **At-Risk Key Account Retention** | $500K USD in critical accounts at high churn risk | **100% Retention ($500K USD safeguarded)** |
+| **Overall Portfolio Churn** | High attrition in legacy support contracts | **-10% YoY Churn Reduction** |
+| **Annual Recurring Revenue (ARR)** | Flat renewal billing | **+28% ARR Growth in Year 1** |
+| **Average Revenue Per Account (ARPA)** | Single-product account penetration | **+15% ARPA Expansion via Cross-Selling** |
+| **Multi-Year Enterprise Deal Flow** | Short-term transactional renewals | **$1.2M+ USD Closed (from a $4M Pipeline @ 50% Win Rate)** |
+| **B2B Sales Cycle Velocity** | Slow manual pre-sales scoping & quoting | **20% to 50% Reduction in Sales Cycle Time** |
+| **Customer Satisfaction (Delivery)** | Friction between sales promises and engineering delivery | **>90% Net Promoter Score (NPS)** |
+
+---
+
+## 4. Applicable Tech Stack & Vendor Ecosystem
+* **Cloud & Infrastructure:** HPE GreenLake, Hybrid Cloud, VMware, Containers, PaaS/IaaS.
+* **Cybersecurity & Networking:** Fortinet, Aruba Networks, Allied Telesis, Fluke Networks.
+* **UCaaS / CCaaS & Automation:** Five9, Zoom, Alcatel-Lucent Enterprise (ALE), Mitel, Avaya, RPA/AI.
